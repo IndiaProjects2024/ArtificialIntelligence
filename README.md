@@ -2,8 +2,11 @@
 Building applications based on Artificial Intelligence.
 
 App Categories:
-Music Generative AI,
+Text Generative AI,
+Audio Generative AI,
 Image Generative AI,
+Code Generative AI
+Music Generative AI,
 Video Generative AI,
 Games Generative AI.
 
